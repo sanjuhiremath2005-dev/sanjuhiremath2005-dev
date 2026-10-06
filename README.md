@@ -68,7 +68,7 @@ My goal is to become a software engineer and build useful, reliable software pro
 ## 📫 Connect With Me
 
 - GitHub: [Sanjay Hiremath](https://github.com/sanjuhiremath2005-dev)
-- LinkedIn: *Add your LinkedIn profile here*
+- LinkedIn: https://www.linkedin.com/in/sanjay-hiremath-a779ab329?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
